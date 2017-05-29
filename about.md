@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am originally from Frankfort KY. I moved to Los Angeles to obtain a B.S. in Biomedical Engineering from the University of Southern California. In the fall, I am off to the University of Virginia to start medical school! My loving boyfriend, JC, and poochon, Maxwell, are moving with me!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+![JC and me in Yosemite](/assets/IMG_20160116_115308139_HDR.jpg)
