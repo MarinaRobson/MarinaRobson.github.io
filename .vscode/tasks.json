@@ -10,11 +10,7 @@
         {
             "taskName": "build",
             "suppressTaskName": false,
-            "args": [
-                "--watch"
-            ],
-            "isBuildCommand": true,
-            "isBackground": true
+            "isBuildCommand": true
         },
         {
             "taskName": "serve",
