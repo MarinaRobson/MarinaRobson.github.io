@@ -24,7 +24,7 @@ github_username:  MarinaRobson
 
 # Build settings
 markdown: kramdown
-theme: moon
+theme: minima
 gems:
   - jekyll-feed
 exclude:
